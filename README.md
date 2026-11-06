@@ -207,7 +207,7 @@ for (let i = 0; i < COUNT; i++) {
 
 ---
 
-## 🚀 Quickstart & One-Command Studio Launch
+## 🚀 Quickstart & One-Command Studio Launch (LOCAL MACHINE)
 
 ### 1. Clone the Repository
 ```bash
@@ -240,19 +240,25 @@ The engine will:
 
 ---
 
-## 🌟 Why Star This Repository?
+### Drop it into EVERY coding agent - properly
 
-The faceless video creator economy generates billions of impressions across YouTube Shorts, Instagram Reels, and TikTok. However, traditional production involves:
-- Spending $60–$120/month on cloud AI video subscriptions that hallucinate.
-- Manually keyframing in After Effects or Blender for 8+ hours per video.
-- Audio drift issues requiring manual post-production dubbing.
+> Claude Code • Antigravity • OpenCode • Z-Code • Cursor • Codex • Hermes • and every other agent that speaks SKILL.md
 
-**Faceless Shorts 2.0 turns code into video**:
-- 💸 **$0.00 Operating Cost**: 100% free and open-source forever.
-- ⚡ **GPU Hardware Accelerated**: Renders 60s videos in under 10 minutes locally.
-- 🤖 **Autonomous Multi-Agent Studio**: From script to render to social delivery in one terminal command.
+---
 
-If this project helps you create content or build automated media pipelines, **give it a star ⭐ on GitHub**!
+## 📦 Install (Zip Method)
+
+1. Download the ZIP from the repo  
+2. Upload the ZIP **directly** into the agent’s skills folder:
+
+**Claude Code**  
+`~/.claude/skills/`
+
+**Antigravity / OpenCode / Z-Code / Cursor / Codex / Hermes**  
+`~/.agents/skills/` or `./skills/`
+
+3. Just type 
+`/faceless-shorts-standalone create a soccer animation explanation video`
 
 ---
 
