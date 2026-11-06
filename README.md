@@ -242,24 +242,22 @@ The engine will:
 
 ### Drop it into EVERY coding agent - properly
 
-> Claude Code • Antigravity • OpenCode • Z-Code • Cursor • Codex • Hermes • and every other agent that speaks SKILL.md
+> • Claude Code  
+> • Antigravity  
+> • OpenCode  
+> • Z-Code  
+> • Codex  
+> • Hermes  
+> • and every other agent that speaks `SKILL.md`
 
 ---
 
-## 📦 Install (Zip Method)
+### Install (Zip Method)
 
 1. Download the ZIP from the repo  
-2. Upload the ZIP **directly** into the agent’s skills folder:
-
-**Claude Code**  
-`~/.claude/skills/`
-
-**Antigravity / OpenCode / Z-Code / Cursor / Codex / Hermes**  
-`~/.agents/skills/` or `./skills/`
-
-3. Just type 
-`/faceless-shorts-standalone create a soccer animation explanation video`
-
+2. Upload the ZIP **directly** into the agent’s chat:  
+3. Just type  `{uploaded-zip} install the uploaded file in proper folder`
+4. Then `/faceless-shorts-standalone create a soccer animation explanation video`
 ---
 
 ## 👨‍💻 Architect & Creator
