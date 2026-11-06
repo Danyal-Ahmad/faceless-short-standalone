@@ -8,30 +8,12 @@
 
 <br>
 
-[![Architect: Danyal Ahmad](https://img.shields.io/badge/Architect-Danyal_Ahmad-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danyal-Ahmad)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Danyal_Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danyal-ahmaad)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![GPU Direct3D 11](https://img.shields.io/badge/GPU_Engine-Direct3D_11-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](#-direct3d-11-gpu-hardware-acceleration)
 [![Kokoro 48kHz Neural](https://img.shields.io/badge/Voice_Audio-Kokoro_48kHz-7928CA?style=for-the-badge)](#-zero-cost-local-audio--whisper-alignment)
 [![Whisper Phoneme Sync](https://img.shields.io/badge/Timing-Whisper_Sync-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)](#-zero-cost-local-audio--whisper-alignment)
 [![100% Free & Local](https://img.shields.io/badge/Cost-100%25_Free_%26_Local-brightgreen?style=for-the-badge)](#-why-code-driven-graphics-outperform-diffusion-models)
-
-<br>
-
-<!-- Viral Feed Share Buttons -->
-<p>
-  <a href="https://twitter.com/intent/tweet?text=Check%20out%20Faceless%20Shorts%202.0%20by%20%40Danyal_Ahmad%20%F0%9F%A4%AF%20An%20autonomous%206-agent%20AI%20video%20studio%20that%20renders%20viral%20animated%20explainers%20100%25%20in%20code%20with%20%240%20API%20cost!&url=https%3A%2F%2Fgithub.com%2FDanyal-Ahmad%2Ffaceless-short-standalone">
-    <img src="https://img.shields.io/badge/Share_on-Twitter%20%2F%20X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Share on Twitter" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2FDanyal-Ahmad%2Ffaceless-short-standalone">
-    <img src="https://img.shields.io/badge/Share_on-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Danyal-Ahmad/faceless-short-standalone/stargazers">
-    <img src="https://img.shields.io/badge/%E2%AD%90_Star_this_Repo-GitHub-yellow?style=flat-square" alt="Star Repository" />
-  </a>
-</p>
 
 ---
 
@@ -42,7 +24,6 @@
 <p><i>Real-time procedural 2D characters rendered on living 3D Three.js sets with continuous camera dollies, physical sunlit dust motes, and sub-10ms Whisper lip-sync.</i></p>
 
 </div>
-
 ---
 
 ## 📸 Production Frame Showcase
@@ -279,11 +260,6 @@ If this project helps you create content or build automated media pipelines, **g
 
 <table style="border: none; background: transparent;">
   <tr>
-    <td width="120" align="center" style="border: none;">
-      <a href="https://github.com/Danyal-Ahmad">
-        <img src="https://github.com/Danyal-Ahmad.png" width="100" style="border-radius: 50%; border: 3px solid #6366f1;" alt="Danyal Ahmad" />
-      </a>
-    </td>
     <td style="border: none;">
       <h3 style="margin: 0;">Danyal Ahmad</h3>
       <p style="margin: 4px 0;"><b>Systems Architect & AI Graphics Engineer</b></p>
