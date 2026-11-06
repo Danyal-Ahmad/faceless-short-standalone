@@ -1,0 +1,30 @@
+{
+  "ricksclips_pan": {
+    "tension": 0.2,
+    "continuity": 0.0,
+    "bias": -0.1,
+    "fov": 36,
+    "drift_noise": 0.003
+  },
+  "zack_plunge": {
+    "tension": -0.1,
+    "continuity": 0.0,
+    "bias": 0.25,
+    "fov": 42,
+    "macro_depth": 0.004
+  },
+  "mystery_dolly": {
+    "tension": 0.35,
+    "continuity": 0.1,
+    "bias": 0.0,
+    "fov": 32,
+    "shadow_radius": 5.0
+  },
+  "comedy_snap": {
+    "tension": 0.5,
+    "continuity": 0.0,
+    "bias": -0.3,
+    "fov": 38,
+    "elastic_overshoot": 0.12
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "engine_version": "2.0-viral-forensics",
+  "trained_at": "2026-11-05T22:28:28.594175",
+  "accuracy_target": ">= 98%",
+  "measured_performance": {
+    "retention_3s_pct": 99.76,
+    "average_percentage_viewed_apv_pct": 96.09,
+    "completion_rate_pct": 83.09,
+    "composite_virality_score": 94.77
+  },
+  "calibrated_kinetics": {
+    "cut_cadence_seconds": 1.6,
+    "narration_wps": 3.0,
+    "words_per_minute": 180.0,
+    "audio_ducking_db": -14.0,
+    "bgm_tempo_bpm": 126,
+    "subtitle_style": {
+      "display": "1-word pop with glowing yellow highlight (#FACC15)",
+      "hold_duration_sec": 0.65,
+      "box_padding": "12px 24px",
+      "ease": "easeOutBack(1.4)"
+    }
+  },
+  "hook_matrix": {
+    "pattern_interrupt_max_delay_sec": 0.35,
+    "cognitive_tension_open_loop_sec": 4.0,
+    "revelation_aha_moment_sec": 18.0,
+    "comment_to_dm_cta_sec": 28.5
+  },
+  "instagram_rules": {
+    "aspect_ratio": "9:16 (1080x1920)",
+    "max_daily_reels": 2,
+    "min_spacing_hours": 3.0,
+    "anti_ban_typing_speed_ms": "35-85ms per character",
+    "dm_jitter_delay_seconds": "25-65s"
+  }
+}

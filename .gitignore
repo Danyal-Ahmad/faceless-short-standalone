@@ -1,0 +1,24 @@
+# Dependencies and environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+node_modules/
+package-lock.json
+
+# Large video renders and temp buffers
+renders/*.mp4
+!media/*.gif
+!media/*.jpg
+!media/*.png
+tmp/
+*.tmp
+*.log
+.system_generated/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,167 @@
+{
+  "total_videos": 25,
+  "total_frames_analyzed": 41455,
+  "channels": {
+    "RicksClips3000": {
+      "videos_analyzed": 20,
+      "total_frames_analyzed": 32792,
+      "total_runtime_seconds": 1093.1,
+      "color_profile": {
+        "mean_hue_deg": 156.8,
+        "mean_saturation_pct": 46.3,
+        "mean_brightness_pct": 60.2,
+        "warmth_bias": 0.032,
+        "rms_contrast": 0.503
+      },
+      "lighting_and_shadows": {
+        "deep_shadow_pixels_pct": 13.78,
+        "highlight_peak_pixels_pct": 8.61,
+        "dynamic_range_ratio": 0.63
+      },
+      "camera_motion_profile": {
+        "push_in_zoom_pct": 51.5,
+        "pan_horizontal_pct": 14.7,
+        "tilt_vertical_pct": 13.2,
+        "static_character_acting_pct": 20.7,
+        "mean_flow_velocity": 3.09
+      },
+      "editing_cadence": {
+        "mean_shot_duration_sec": 3.67,
+        "std_shot_duration_sec": 3.44
+      },
+      "character_ink_and_captions": {
+        "character_ink_outline_density": 0.13,
+        "caption_zone_contrast_score": 46.6
+      }
+    },
+    "SimpleHistory": {
+      "videos_analyzed": 2,
+      "total_frames_analyzed": 5705,
+      "total_runtime_seconds": 237.7,
+      "color_profile": {
+        "mean_hue_deg": 65.3,
+        "mean_saturation_pct": 24.4,
+        "mean_brightness_pct": 54.4,
+        "warmth_bias": 0.067,
+        "rms_contrast": 0.374
+      },
+      "lighting_and_shadows": {
+        "deep_shadow_pixels_pct": 5.72,
+        "highlight_peak_pixels_pct": 10.89,
+        "dynamic_range_ratio": 1.89
+      },
+      "camera_motion_profile": {
+        "push_in_zoom_pct": 13.4,
+        "pan_horizontal_pct": 6.3,
+        "tilt_vertical_pct": 6.0,
+        "static_character_acting_pct": 74.4,
+        "mean_flow_velocity": 0.86
+      },
+      "editing_cadence": {
+        "mean_shot_duration_sec": 11.87,
+        "std_shot_duration_sec": 2.14
+      },
+      "character_ink_and_captions": {
+        "character_ink_outline_density": 0.075,
+        "caption_zone_contrast_score": 40.1
+      }
+    },
+    "ZackDFilms": {
+      "videos_analyzed": 3,
+      "total_frames_analyzed": 2958,
+      "total_runtime_seconds": 98.7,
+      "color_profile": {
+        "mean_hue_deg": 134.2,
+        "mean_saturation_pct": 38.8,
+        "mean_brightness_pct": 62.5,
+        "warmth_bias": -0.059,
+        "rms_contrast": 0.387
+      },
+      "lighting_and_shadows": {
+        "deep_shadow_pixels_pct": 10.55,
+        "highlight_peak_pixels_pct": 3.6,
+        "dynamic_range_ratio": 0.35
+      },
+      "camera_motion_profile": {
+        "push_in_zoom_pct": 49.5,
+        "pan_horizontal_pct": 15.6,
+        "tilt_vertical_pct": 15.3,
+        "static_character_acting_pct": 19.6,
+        "mean_flow_velocity": 4.73
+      },
+      "editing_cadence": {
+        "mean_shot_duration_sec": 12.0,
+        "std_shot_duration_sec": 13.08
+      },
+      "character_ink_and_captions": {
+        "character_ink_outline_density": 0.064,
+        "caption_zone_contrast_score": 38.8
+      }
+    }
+  },
+  "learned_style_weights": {
+    "engine_version": "2.5.0-RicksClipsForensic",
+    "training_sample_size_frames": 41455,
+    "threejs_environment": {
+      "camera": {
+        "fov": 43.5,
+        "default_position": [
+          0,
+          1.35,
+          3.4
+        ],
+        "default_look_at": [
+          0,
+          0.95,
+          0
+        ],
+        "dolly_zoom_profile": "continuous_push_in",
+        "push_in_velocity_pct_per_sec": 4.2
+      },
+      "lighting": {
+        "directional_color": "0xFFF6E5",
+        "directional_intensity": 1.35,
+        "directional_position": [
+          3.5,
+          7.5,
+          4.0
+        ],
+        "ambient_color": "0xE3ECF8",
+        "ambient_intensity": 0.68,
+        "shadow_map_size": 2048,
+        "shadow_bias": -0.00018,
+        "shadow_radius": 2.6
+      },
+      "materials": {
+        "roughness_base": 0.55,
+        "metalness_base": 0.08,
+        "toon_ink_outline_width": 3.5,
+        "toon_ink_outline_color": "#111111"
+      }
+    },
+    "toon_character_engine": {
+      "head_to_body_ratio": 0.42,
+      "silhouette_stroke_width": 3.8,
+      "specular_glare_arc": true,
+      "bounce_frequency_bpm": 120,
+      "bounce_vertical_amplitude": 0.035,
+      "billboard_facing": "camera_locked_yaw_pitch"
+    },
+    "editing_and_captions": {
+      "target_cut_duration_sec": 3.67,
+      "caption_y_anchor_pixels": 1340,
+      "caption_font_weight": "900",
+      "caption_font_family": "Impact, system-ui, sans-serif",
+      "caption_active_highlight_color": "#FFE600",
+      "caption_stroke_color": "#000000",
+      "caption_stroke_width": 12,
+      "words_per_display": 1
+    },
+    "sound_design": {
+      "tempo_bpm": 120,
+      "style": "comedic_march_bounce",
+      "ducking_voiceover_db": -14,
+      "foley_action_sync_accuracy_ms": 30
+    }
+  }
+}

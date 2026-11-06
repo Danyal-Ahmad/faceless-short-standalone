@@ -1,0 +1,65 @@
+{
+  "engine_version": "2.5.0-RicksClipsForensic",
+  "training_sample_size_frames": 41455,
+  "threejs_environment": {
+    "camera": {
+      "fov": 43.5,
+      "default_position": [
+        0,
+        1.35,
+        3.4
+      ],
+      "default_look_at": [
+        0,
+        0.95,
+        0
+      ],
+      "dolly_zoom_profile": "continuous_push_in",
+      "push_in_velocity_pct_per_sec": 4.2
+    },
+    "lighting": {
+      "directional_color": "0xFFF6E5",
+      "directional_intensity": 1.35,
+      "directional_position": [
+        3.5,
+        7.5,
+        4.0
+      ],
+      "ambient_color": "0xE3ECF8",
+      "ambient_intensity": 0.68,
+      "shadow_map_size": 2048,
+      "shadow_bias": -0.00018,
+      "shadow_radius": 2.6
+    },
+    "materials": {
+      "roughness_base": 0.55,
+      "metalness_base": 0.08,
+      "toon_ink_outline_width": 3.5,
+      "toon_ink_outline_color": "#111111"
+    }
+  },
+  "toon_character_engine": {
+    "head_to_body_ratio": 0.42,
+    "silhouette_stroke_width": 3.8,
+    "specular_glare_arc": true,
+    "bounce_frequency_bpm": 120,
+    "bounce_vertical_amplitude": 0.035,
+    "billboard_facing": "camera_locked_yaw_pitch"
+  },
+  "editing_and_captions": {
+    "target_cut_duration_sec": 3.67,
+    "caption_y_anchor_pixels": 1340,
+    "caption_font_weight": "900",
+    "caption_font_family": "Impact, system-ui, sans-serif",
+    "caption_active_highlight_color": "#FFE600",
+    "caption_stroke_color": "#000000",
+    "caption_stroke_width": 12,
+    "words_per_display": 1
+  },
+  "sound_design": {
+    "tempo_bpm": 120,
+    "style": "comedic_march_bounce",
+    "ducking_voiceover_db": -14,
+    "foley_action_sync_accuracy_ms": 30
+  }
+}
