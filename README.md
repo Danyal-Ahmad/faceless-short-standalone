@@ -24,6 +24,7 @@
 <p><i>Real-time procedural 2D characters rendered on living 3D Three.js sets with continuous camera dollies, physical sunlit dust motes, and sub-10ms Whisper lip-sync.</i></p>
 
 </div>
+
 ---
 
 ## 📸 Production Frame Showcase
@@ -258,25 +259,6 @@ The engine will:
 2. Upload the ZIP **directly** into the agent’s chat:  
 3. Just type  `{uploaded-zip} install the uploaded file in proper folder`
 4. Then `/faceless-shorts-standalone create a soccer animation explanation video`
----
-
-## 👨‍💻 Architect & Creator
-
-<table style="border: none; background: transparent;">
-  <tr>
-    <td style="border: none;">
-      <h3 style="margin: 0;">Danyal Ahmad</h3>
-      <p style="margin: 4px 0;"><b>Systems Architect & AI Graphics Engineer</b></p>
-      <p style="margin: 8px 0;">
-        <a href="https://github.com/Danyal-Ahmad"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub"></a>
-        &nbsp;
-        <a href="https://linkedin.com/in/danyal-ahmaad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-      </p>
-      <p style="margin: 0; color: #94a3b8;"><i>Specializing in autonomous multi-agent systems, procedural 2D/3D kinetics, GPU rendering pipelines, and algorithmic media engineering.</i></p>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 📄 License
