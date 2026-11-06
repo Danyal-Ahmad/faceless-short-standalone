@@ -1,39 +1,78 @@
-# Faceless Shorts 2.0: Autonomous 6-Agent AI Video Studio
+<div align="center">
 
-<p align="center">
-  <img src="media/animated_preview.gif" alt="Faceless Shorts 2.0 Kinetic Animation Preview" width="360" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.4);" />
-</p>
+<img src="media/banner.png" alt="Faceless Shorts 2.0: Autonomous 6-Agent AI Video Studio" width="100%" style="border-radius: 12px; margin-bottom: 16px;" />
 
-<p align="center">
-  <b>A 100% Code-First, Zero-Cost Cinematic Video Engine for Viral Storytelling & Algorithmic Retention</b><br>
-  <i>Architected & Created by <a href="https://github.com/Danyal-Ahmad"><b>Danyal Ahmad</b></a></i>
-</p>
+# 🎬 Faceless Shorts 2.0
+### **The Autonomous 6-Agent AI Video Studio for Viral Storytelling**
+*100% Code-First • Zero API Cost • Direct3D 11 GPU Accelerated • Mathematical 2D/3D Kinetics*
 
-<p align="center">
-  <a href="https://github.com/Danyal-Ahmad"><img src="https://img.shields.io/badge/Architect-Danyal%20Ahmad-blue?style=for-the-badge&logo=github" alt="Architect Danyal Ahmad"></a>
-  <a href="https://linkedin.com/in/danyal-ahmaad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Danyal Ahmad"></a>
-  <img src="https://img.shields.io/badge/Render%20Engine-Three.js%20%2B%20Direct3D%2011%20GPU-green?style=for-the-badge&logo=opengl" alt="GPU Direct3D 11">
-  <img src="https://img.shields.io/badge/Voice%20Audio-Kokoro%2048kHz%20Neural%20TTS-purple?style=for-the-badge" alt="Kokoro TTS">
-  <img src="https://img.shields.io/badge/Timing-Whisper%20Phoneme%20Sync-red?style=for-the-badge&logo=openai" alt="Whisper Sync">
-  <img src="https://img.shields.io/badge/Cost-$0.00%20Zero%20API%20Keys-orange?style=for-the-badge" alt="Zero Cost">
+<br>
+
+[![Architect: Danyal Ahmad](https://img.shields.io/badge/Architect-Danyal_Ahmad-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Danyal-Ahmad)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Danyal_Ahmad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danyal-ahmaad)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![GPU Direct3D 11](https://img.shields.io/badge/GPU_Engine-Direct3D_11-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](#-direct3d-11-gpu-hardware-acceleration)
+[![Kokoro 48kHz Neural](https://img.shields.io/badge/Voice_Audio-Kokoro_48kHz-7928CA?style=for-the-badge)](#-zero-cost-local-audio--whisper-alignment)
+[![Whisper Phoneme Sync](https://img.shields.io/badge/Timing-Whisper_Sync-FF4B4B?style=for-the-badge&logo=openai&logoColor=white)](#-zero-cost-local-audio--whisper-alignment)
+[![100% Free & Local](https://img.shields.io/badge/Cost-100%25_Free_%26_Local-brightgreen?style=for-the-badge)](#-why-code-driven-graphics-outperform-diffusion-models)
+
+<br>
+
+<!-- Viral Feed Share Buttons -->
+<p>
+  <a href="https://twitter.com/intent/tweet?text=Check%20out%20Faceless%20Shorts%202.0%20by%20%40Danyal_Ahmad%20%F0%9F%A4%AF%20An%20autonomous%206-agent%20AI%20video%20studio%20that%20renders%20viral%20animated%20explainers%20100%25%20in%20code%20with%20%240%20API%20cost!&url=https%3A%2F%2Fgithub.com%2FDanyal-Ahmad%2Ffaceless-short-standalone">
+    <img src="https://img.shields.io/badge/Share_on-Twitter%20%2F%20X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="Share on Twitter" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fgithub.com%2FDanyal-Ahmad%2Ffaceless-short-standalone">
+    <img src="https://img.shields.io/badge/Share_on-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Danyal-Ahmad/faceless-short-standalone/stargazers">
+    <img src="https://img.shields.io/badge/%E2%AD%90_Star_this_Repo-GitHub-yellow?style=flat-square" alt="Star Repository" />
+  </a>
 </p>
 
 ---
 
-## 🎬 Production Frame Showcase
+### ⚡ Watch the Engine in Motion
 
-Faceless Shorts 2.0 generates complete 9:16 vertical storytelling videos directly from procedural code. Flat 2D cartoon characters with expressive facial acting live within depth-mapped 3D Three.js architectural environments featuring physical sunbeams, continuous camera dollies, dynamic ink outlines, and active dust motes.
+<img src="media/animated_preview.gif" alt="Kinetic Animation Engine Preview" width="340" style="border-radius: 14px; box-shadow: 0 16px 40px rgba(0,0,0,0.6); border: 2px solid rgba(99,102,241,0.3);" />
 
-<p align="center">
-  <img src="media/hero_coding_dust_motes.jpg" width="48%" alt="Hero at Workstation with Sunlit Dust Motes" />
-  <img src="media/boss_reaction_acting.jpg" width="48%" alt="Boss Reaction Acting with 3D Depth" />
-</p>
-<p align="center">
-  <img src="media/automation_kinetics.jpg" width="48%" alt="Active Terminal & Procedural Kinetics" />
-  <img src="media/hero_sunglasses_coffee.jpg" width="48%" alt="Character Rig with Sunglasses & Coffee Prop" />
-</p>
+<p><i>Real-time procedural 2D characters rendered on living 3D Three.js sets with continuous camera dollies, physical sunlit dust motes, and sub-10ms Whisper lip-sync.</i></p>
 
-### 🔍 53-Frame QA Verification Matrix
+</div>
+
+---
+
+## 📸 Production Frame Showcase
+
+Faceless Shorts 2.0 generates complete 9:16 vertical storytelling videos directly from procedural code. Flat 2D cartoon characters with expressive facial acting live within depth-mapped 3D Three.js architectural environments featuring physical sunbeams, continuous camera dollies, dynamic charcoal comic ink, and active dust motes.
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="media/hero_coding_dust_motes.jpg" width="100%" alt="Hero at Workstation with Sunlit Dust Motes" /><br>
+      <b>3D Workspace with Volumetric Sunbeams & Dust Motes</b>
+    </td>
+    <td width="50%" align="center">
+      <img src="media/boss_reaction_acting.jpg" width="100%" alt="Boss Reaction Acting with 3D Depth" /><br>
+      <b>Character Rigging & Expressive Comic Face Acting</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="media/automation_kinetics.jpg" width="100%" alt="Active Terminal & Procedural Kinetics" /><br>
+      <b>Vector Code Terminals & Pixel-Crisp Typography</b>
+    </td>
+    <td width="50%" align="center">
+      <img src="media/hero_sunglasses_coffee.jpg" width="100%" alt="Character Rig with Sunglasses & Coffee Prop" /><br>
+      <b>Procedural Props, Eyewear & Secondary Physics</b>
+    </td>
+  </tr>
+</table>
+
+### 🔍 53-Frame Production QA Verification Matrix
 Every sequence undergoes strict frame-by-frame verification across character anatomy, camera Bézier velocity, volume preservation, and viseme synchronization:
 
 <p align="center">
@@ -42,43 +81,46 @@ Every sequence undergoes strict frame-by-frame verification across character ana
 
 ---
 
-## ⚡ Why Code-Driven Graphics Outperform Generative Video Models
+## ⚡ Why Code-Driven Graphics Outperform Diffusion Models
 
-Traditional AI video generators (such as Runway Gen-3, Sora, Pika, Kling, or Luma) generate video through diffusion latents. While visually painterly, they fail critically for structured viral storytelling. 
+Traditional generative AI video models (Runway Gen-3, OpenAI Sora, Pika, Kling, Luma) generate frames from diffusion latents. While photorealistic in still frames, they fail critically when applied to structured viral education and storytelling:
 
-**Faceless Shorts 2.0 solves the fundamental limitations of generative video by executing deterministic, code-based animation**:
-
-| Architectural Feature | Traditional AI Diffusion Video (Runway / Sora / Kling) | Faceless Shorts 2.0 Engine |
+| Architectural Dimension | Generative Diffusion Video (Runway / Sora / Kling) | Faceless Shorts 2.0 Engine |
 |---|---|---|
-| **Text & Code Legibility** | Hallucinates gibberish glyphs; unable to display real code or UI. | **100% Vector Precision**: Canvas and SVG text rendering with pixel-crisp fonts. |
-| **Temporal Consistency** | Severe morphing, limb shifting, hallucinated extra fingers and objects. | **Strict Rigging**: Characters possess deterministic mathematical bones and joints. |
-| **Physics & Mass** | Floats, dissolves, and teleports without physical grounding. | **12 Disney Principles**: Volume-preserving squash & stretch ($s_x = 1/\sqrt{s_y}$) and RK4 springs. |
-| **Audio-Visual Sync** | Narration is tacked on post-generation with loose drift. | **Sub-10ms Precision**: Whisper phoneme extraction synchronizes mouth shapes to syllables. |
-| **Camera Control** | Vague natural language prompting with unpredictable drift. | **Deterministic 3D Math**: Spline-based Three.js cameras with exact Bézier acceleration. |
-| **Environment Continuity** | Background details mutate between camera cuts. | **Persistent 3D Worlds**: True 3D geometry, instanced particles, and static lighting coordinates. |
-| **Cost & Latency** | High recurring subscription fees ($0.20–$2.00 / minute of video). | **$0.00 / Zero API Keys**: 100% local neural voice, local Whisper, and local GPU rasterization. |
+| **Text & Code Legibility** | Hallucinates unreadable glyphs; incapable of rendering real code, terminal text, or legible UI. | **100% Vector Precision**: Canvas and SVG typography with pixel-crisp fonts and vector sharpness. |
+| **Temporal Consistency** | Severe morphing, hallucinated limbs, shifting facial features, floating objects between cuts. | **Strict Rigging**: Characters possess deterministic mathematical bones, joints, and stable comic inks. |
+| **Physical Mass & Weight** | Characters float, dissolve, and teleport without physical grounding or true momentum. | **12 Disney Principles**: Volume-preserving squash & stretch ($s_x = 1/\sqrt{s_y}$) and RK4 spring dynamics. |
+| **Audio-Visual Sync** | Narration is tacked on post-render; mouth movements are loosely hallucinated or unsynced. | **Sub-10ms Precision**: Local Whisper extracts phonetic timestamps, driving 8 distinct visemes. |
+| **Camera Choreography** | Vague natural-language prompting with unpredictable camera drift and sudden speed jumps. | **Deterministic 3D Math**: Spline-based Three.js cameras with exact cubic Bézier acceleration curves. |
+| **Environment Continuity** | Background props and room geometry mutate whenever the camera shifts angle. | **Persistent 3D Worlds**: True 3D geometry, instanced particles, and static lighting coordinates. |
+| **Operating Cost** | Expensive recurring cloud fees ($0.20–$2.00 per minute of video). | **$0.00 / Zero API Keys**: 100% local neural voice, local Whisper, and local GPU rasterization. |
 
 ---
 
 ## 🤖 The 6 Autonomous Production Agents
 
-The studio operates via 6 specialized autonomous agents that coordinate from scriptwriting to social media delivery:
+Faceless Shorts 2.0 operates as an automated production studio where 6 specialized AI agents orchestrate the end-to-end pipeline:
 
 ```mermaid
 flowchart TD
     A[Topic / Trend] --> B[Viral Growth Analyst]
-    B -->|Hook Strategy & Angle| C[Screenwriter]
+    B -->|Hook Strategy & Retention Blueprint| C[Screenwriter]
     C -->|Spoken Script & Visual Beats| D[Director]
-    D -->|Audio Generation & Timing| E[Sound Engineer]
-    D -->|Character Kinematics & Rigs| F[Animator]
-    D -->|3D Sets, Dust & Lighting| G[Environment Designer]
+    D -->|Audio Synthesis & Word Timings| E[Sound Engineer]
+    D -->|Character Kinematics & Hand Rigs| F[Animator]
+    D -->|3D Sets, Sunbeams & Dust Motes| G[Environment Designer]
     E --> H[Chrome Direct3D 11 GPU Capture]
     F --> H
     G --> H
     H --> I[ffmpeg Hardware Muxer]
-    I -->|Finished 4K/1080p MP4| J[QA Contact Sheet & Review]
-    J -->|Approved Master| K[Automated Publishing & DM Delivery]
+    I -->|Finished 1080p / 4K MP4| J[QA Contact Sheet Verification]
+    J -->|Approved Master| K[Automated Social Media Publishing]
 ```
+
+<details>
+<summary><b>🔍 Click to expand details on the 6 Autonomous Agents</b></summary>
+
+<br>
 
 ### 1. 🎬 Executive Director (`agents/director.md`)
 - **Mandate**: Showrunner, cinematic continuity, and pacing supervisor.
@@ -91,7 +133,7 @@ flowchart TD
 - **Mandate**: Retention engineering and phonetically spoken narrative.
 - **Key Responsibilities**:
   - Eliminates the 0–3 second dropoff with in-medias-res hook architecture.
-  - Writes exclusively for the ear: spoken rhythm, natural cadence, and phonetic number expansion.
+  - Writes exclusively for the ear: spoken rhythm, natural cadence, and phonetic number expansion ("seventy thousand dollars", not "$70,000").
   - Engineers circular loop endings connecting the final word back into the opening hook.
 
 ### 3. 🎨 Master Animator (`agents/animator.md`)
@@ -123,15 +165,17 @@ flowchart TD
   - Automated stealth social publishing with humanized keystrokes and anti-detection delays.
   - Delivers comment-to-DM automated lead flows.
 
+</details>
+
 ---
 
-## 🎨 The 6 Cinematic Production Aesthetics
+## 🎨 6 Distinct Production Aesthetics
 
 The engine provides 6 distinct, fully programmed visual styles:
 
 | Style | Aesthetic Name | Visual Description | Best Used For |
 |---|---|---|---|
-| `tall-tale` | **Tall Tale 3D** | 2D cartoon characters in sunny 3D Three.js worlds with moving cameras and dust motes (RicksClips style). | Funny true stories, tech loopholes, developer culture, and startup lore. |
+| `tall-tale` | **Tall Tale 3D** | Flat 2D cartoon characters in sunny 3D Three.js worlds with moving cameras and dust motes (RicksClips style). | Funny true stories, tech loopholes, developer culture, and startup lore. |
 | `deep-dive` | **Deep Dive 3D** | High-precision 3D human anatomy with glowing x-ray cutaways and macro camera paths (Zack D. Films style). | "What happens if...?" biology, human health, and material science. |
 | `night-file` | **Night File 3D** | Dark volumetric rooms with high-contrast single-source lighting and glowing red forensic subjects. | Unsolved mysteries, cybercrime, true history, and deep-web investigations. |
 | `inside-out` | **Inside Out 2D** | Flat, punchy 2D medical and anatomical explainers with bold 1–3 word kinetic typography. | Rapid science explainers and physiological mechanics. |
@@ -140,10 +184,10 @@ The engine provides 6 distinct, fully programmed visual styles:
 
 ---
 
-## 🔬 Mathematical Kinematics & Rigging Architecture
+## 🔬 Mathematical Kinematics & Rigging
 
 ### 1. Volume-Preserving Squash and Stretch
-To maintain visual mass during character impacts, landings, and shock reactions, the character's horizontal scale is calculated as the exact reciprocal square root of vertical deformation:
+To preserve character mass during impacts, jump landings, and shock reactions, the horizontal scale is computed as the exact reciprocal square root of vertical deformation:
 
 $$\text{scale}_X = \frac{1}{\sqrt{\text{scale}_Y}} = \frac{1}{\sqrt{1 + \text{squash}}}$$
 
@@ -154,13 +198,13 @@ const sx = 1 / Math.sqrt(Math.max(0.1, sy));
 ctx.scale(sx, sy);
 ```
 
-### 2. Secondary Motion & RK4 Spring Integration
+### 2. Secondary Inertia & RK4 Spring Dynamics
 Neckties, hair strands, and accessories follow dynamic Runge-Kutta 4th Order (RK4) spring physics to eliminate robotic mechanical motion:
 
 $$\ddot{x} + 2\zeta\omega_n\dot{x} + \omega_n^2 x = 0$$
 
 ```javascript
-// Spring lag applied to secondary character appendages
+// Dynamic spring lag applied to secondary appendages
 st.tieAngle = lerp(st.tieAngle, -st.vx * 0.12 + Math.sin(t * 8) * 0.05, 0.18);
 ```
 
@@ -215,21 +259,40 @@ The engine will:
 
 ---
 
+## 🌟 Why Star This Repository?
+
+The faceless video creator economy generates billions of impressions across YouTube Shorts, Instagram Reels, and TikTok. However, traditional production involves:
+- Spending $60–$120/month on cloud AI video subscriptions that hallucinate.
+- Manually keyframing in After Effects or Blender for 8+ hours per video.
+- Audio drift issues requiring manual post-production dubbing.
+
+**Faceless Shorts 2.0 turns code into video**:
+- 💸 **$0.00 Operating Cost**: 100% free and open-source forever.
+- ⚡ **GPU Hardware Accelerated**: Renders 60s videos in under 10 minutes locally.
+- 🤖 **Autonomous Multi-Agent Studio**: From script to render to social delivery in one terminal command.
+
+If this project helps you create content or build automated media pipelines, **give it a star ⭐ on GitHub**!
+
+---
+
 ## 👨‍💻 Architect & Creator
 
-<table style="border: none;">
+<table style="border: none; background: transparent;">
   <tr>
-    <td width="120" align="center">
-      <img src="https://github.com/Danyal-Ahmad.png" width="100" style="border-radius: 50%;" alt="Danyal Ahmad" />
+    <td width="120" align="center" style="border: none;">
+      <a href="https://github.com/Danyal-Ahmad">
+        <img src="https://github.com/Danyal-Ahmad.png" width="100" style="border-radius: 50%; border: 3px solid #6366f1;" alt="Danyal Ahmad" />
+      </a>
     </td>
-    <td>
-      <h3>Danyal Ahmad</h3>
-      <p><b>Systems Architect & AI Graphics Engineer</b></p>
-      <p>
-        <a href="https://github.com/Danyal-Ahmad"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github" alt="GitHub"></a>
-        <a href="https://linkedin.com/in/danyal-ahmaad"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>
+    <td style="border: none;">
+      <h3 style="margin: 0;">Danyal Ahmad</h3>
+      <p style="margin: 4px 0;"><b>Systems Architect & AI Graphics Engineer</b></p>
+      <p style="margin: 8px 0;">
+        <a href="https://github.com/Danyal-Ahmad"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github" alt="GitHub"></a>
+        &nbsp;
+        <a href="https://linkedin.com/in/danyal-ahmaad"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
       </p>
-      <p><i>Specializing in autonomous multi-agent systems, procedural 2D/3D kinetics, GPU rendering pipelines, and high-retention algorithmic media engineering.</i></p>
+      <p style="margin: 0; color: #94a3b8;"><i>Specializing in autonomous multi-agent systems, procedural 2D/3D kinetics, GPU rendering pipelines, and algorithmic media engineering.</i></p>
     </td>
   </tr>
 </table>
@@ -238,4 +301,4 @@ The engine will:
 
 ## 📄 License
 
-Distributed under the MIT License. See `LICENSE` for details.
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for details.
